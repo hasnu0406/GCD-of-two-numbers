@@ -15,10 +15,10 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
 Program to find the gcd of two number using function.
-Developed by: HASNA MUBARAK AZEEM
-RegisterNumber: 212223240052
+DEVELOPED BY: HASNA MUBARAK AZEEM
+REG NO: 212223240052
+
 def gcd():
     n1=int(input())
     n2=int(input())
@@ -31,11 +31,10 @@ def gcd():
            hcf=i
     print("GCD of two numbers is:",hcf)
   
-*/
 ```
 
 ## Output:
-![Screenshot 2024-03-24 150136](https://github.com/hasnu0406/GCD-of-two-numbers/assets/135305537/2aacc0e2-489a-4cb1-bb7f-679c384bd58b)
+![alt text](<Screenshot 2024-04-08 225012.png>)
 
 
 
